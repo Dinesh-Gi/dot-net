@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'testingmywebsite'
           slot-name: 'Production'
-          package: .
+          package: src/bc-readme-gen
           
